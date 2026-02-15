@@ -48,6 +48,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Josh1xs/Josh1xs/output/snake.svg" alt="Snake animation" />
 
 ###
