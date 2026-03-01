@@ -31,11 +31,10 @@
 <hr />
 
 <div align="center">
-  <h2>🇸🇻 GitHub Rank El Salvador 🇸🇻</h2>
+  <h2>🇸🇻 </h2>
   <a href="https://committers.top/el_salvador_private">
     <img src="https://img.shields.io/badge/Check%20my%20Ranking-El%20Salvador-blue?style=for-the-badge&logo=github" alt="GitHub Rank El Salvador">
   </a>
-  <p><i>Subiendo cambios y mejorando en el top nacional de El Salvador.</i></p>
 </div>
 
 <div align="center">
