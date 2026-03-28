@@ -17,7 +17,7 @@
 ###
 
 <p align="left">
-  Soy Programador Web y aplicaciones Android. Especializado en Backend y bases de datos Relacionales/NoRelacionales 🧑🏻‍💻<br><br>
+  Soy Desarrollador Web Full Stack con conocimientos de bases de datos relacionales y no relacionales 🧑🏻‍💻<br><br>
   ✉️ contacto: <b>m4valor@gmail.com</b>
 </p>
 
