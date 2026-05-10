@@ -17,8 +17,8 @@
 ###
 
 <p align="left">
-  Soy Desarrollador Web BACKEND con conocimientos de bases de datos relacionales y no relacionales 🧑🏻‍💻<br><br>
-  ✉️ contacto: <b>m4valor@gmail.com</b>
+ Hi, I'm Joshua :) I'm a Backend Web Developer with knowledge of relational and non-relational databases. 🧑🏻‍💻<br><br>
+  ✉️ contact: <b>m4valor@gmail.com</b>
 </p>
 
 ###
