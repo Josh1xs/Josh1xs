@@ -12,7 +12,7 @@
 * 🚀 I love designing and building robust **backend systems** and administrative platforms that solve real-world logistical and data management challenges.
 * 💻 My main focus is **Backend Web Development**, creating efficient workflows, reliable API architectures, and managing complex databases.
 *  I also have solid foundations  frontend logic using **JavaScript**, and UI wireframing/design layout with **Figma**.
-* 🌐 Always open to collaborating on **innovative projects** that require backend engineering, data optimization, and collaborative teamwork.
+* 🌐 Always open to collaborating on **innovative projects** that require backend, data optimization, and collaborative teamwork.
 
 <hr />
 
