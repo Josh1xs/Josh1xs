@@ -1,43 +1,53 @@
-<h1 align="center">Joshua Gonzalez</h1>
+<h1 align="center">Hi, I'm Joshua Gonzalez 👋</h1>
 
-
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<p align="left">
- Hi, I'm Joshua :) I'm a Backend Web Developer with knowledge of relational and non-relational databases. 🧑🏻‍💻<br><br>
-  ✉️ contact: <b>m4valor@gmail.com</b>
+<p align="center">
+  <b>Backend Developer & Technical Team Coordinator</b> 🚀<br>
+  Passionate about building scalable backend architectures, managing data ecosystems, and developing functional web applications.
 </p>
 
-###
+<hr />
+
+## 🧠 About Me
+
+* 🚀 I love designing and building robust **backend systems** and administrative platforms that solve real-world logistical and data management challenges.
+* 💻 My main focus is **Backend Web Development**, creating efficient workflows, reliable API architectures, and managing complex databases.
+* 📱 I also have solid foundations in **Android development**, frontend logic using **JavaScript**, and UI wireframing/design layout with **Figma**.
+* 🌐 Always open to collaborating on **innovative projects** that require backend engineering, data optimization, and collaborative teamwork.
+
+<hr />
+
+## 📬 How to reach me
+
+* ✉️ **Email:** [m4valor@gmail.com](mailto:m4valor@gmail.com)
+* 📸 **Instagram:** [@josh103_](https://www.instagram.com/josh103_/)
+
+<hr />
+
+## 🛠️ Languages and Technologies
 
 <div align="center">
-  <a href="https://www.instagram.com/josh103_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45" alt="Android" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="Figma" />
 </div>
 
 <hr />
 
-<div align="center">
-  <h2>🇸🇻 </h2>
-  <a href="https://committers.top/el_salvador_private">
-    <img src="https://img.shields.io/badge/Check%20my%20Ranking-El%20Salvador-blue?style=for-the-badge&logo=github" alt="GitHub Rank El Salvador">
-  </a>
-</div>
+## 📊 My Stats & Rankings
 
 <div align="center">
+  <h3>🇸🇻 El Salvador</h3>
+  <a href="https://committers.top/el_salvador_private" target="_blank">
+    <img src="https://img.shields.io/badge/Check%20my%20Ranking-El%20Salvador-blue?style=for-the-badge&logo=github" alt="GitHub Rank El Salvador">
+  </a>
+  <br><br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Josh1xs&show_icons=true&theme=dark&hide_border=false" alt="Josh1xs Stats" />
 </div>
