@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Joshua Gonzalez 👋</h1>
 
 <p align="center">
-  <b>Backend Developer & Technical Team Coordinator</b> 🚀<br>
+  <b>Backend Developer & Technical Team Coordinator</b> <br>
   Passionate about building scalable backend architectures, managing data ecosystems, and developing functional web applications.
 </p>
 
 <hr />
 
-## 🧠 About Me
+##  About Me
 
 * 🚀 I love designing and building robust **backend systems** and administrative platforms that solve real-world logistical and data management challenges.
 * 💻 My main focus is **Backend Web Development**, creating efficient workflows, reliable API architectures, and managing complex databases.
