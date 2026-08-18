@@ -45,24 +45,14 @@
 
 <hr />
 
-## My Stats & Rankings
+## Stats
 
 <div align="center">
-  <h3>El Salvador</h3>
-  <!-- Enlace oficial al ranking de El Salvador -->
   <a href="https://committers.top/el_salvador_private" target="_blank">
     <img src="https://img.shields.io/badge/Check%20my%20Ranking-El%20Salvador-blue?style=for-the-badge&logo=github" alt="GitHub Rank El Salvador">
   </a>
   <br><br>
 
-  <!-- Tarjetas: Racha de Commits + Lenguajes Más Usados -->
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=Josh1xs&theme=dark&hide_border=false" alt="Josh1xs Streak" height="165" />
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Josh1xs&layout=compact&theme=dark&hide_border=false&langs_count=8" alt="Josh1xs Most Used Languages" height="165" />
-  </p>
-
-  <br>
-
-  <!-- Gráfica de Actividad de Commits de Josh1xs -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Josh1xs&theme=react-dark&hide_border=false" width="95%" alt="Josh1xs Activity Graph" />
+  <!-- Tarjeta de WakaTime (Tiempo de código por lenguaje) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=Josh1xs&theme=dark&hide_border=false" alt="Josh1xs WakaTime Stats" />
 </div>
