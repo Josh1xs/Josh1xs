@@ -54,8 +54,14 @@
   </a>
   <br><br>
 
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Josh1xs&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Josh1xs GitHub Stats" />
-  <br><br>
+  <!-- Tarjetas lado a lado para estética profesional -->
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josh1xs&theme=dark&hide_border=false" alt="Josh1xs Streak" height="165" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Josh1xs&layout=compact&theme=dark&hide_border=false&langs_count=8" alt="Josh1xs Most Used Languages" height="165" />
+  </p>
 
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Josh1xs&layout=compact&theme=dark&hide_border=false" alt="Josh1xs Most Used Languages" />
+  <br>
+
+  <!-- Grafico de Actividad de Commits -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Josh1xs&theme=react-dark&hide_border=false" width="95%" alt="Josh1xs Activity Graph" />
 </div>
