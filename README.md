@@ -7,16 +7,16 @@
 
 <hr />
 
-##  About Me
+## 👨‍💻 About Me
 
-*  I love designing and building robust **backend systems** and administrative platforms that solve real-world logistical and data management challenges.
+* I love designing and building robust **backend systems** and administrative platforms that solve real-world logistical and data management challenges.
 * My main focus is **Backend Web Development**, creating efficient workflows, reliable API architectures, and managing complex databases.
-* also have solid foundations  frontend logic using **JavaScript**, and UI wireframing/design layout with **Figma**.
-*  Always open to collaborating on **innovative projects** that require backend, data optimization, and collaborative teamwork.
+* I also have solid foundations in frontend logic using **JavaScript**, and UI wireframing/design layout with **Figma**.
+* Always open to collaborating on **innovative projects** that require backend, data optimization, and collaborative teamwork.
 
 <hr />
 
-##  How to reach me
+## 📬 How to reach me
 
 * ✉️ **Email:** [m4valor@gmail.com](mailto:m4valor@gmail.com)
 * 📸 **Instagram:** [@josh103_](https://www.instagram.com/josh103_/)
@@ -53,5 +53,9 @@
     <img src="https://img.shields.io/badge/Check%20my%20Ranking-El%20Salvador-blue?style=for-the-badge&logo=github" alt="GitHub Rank El Salvador">
   </a>
   <br><br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Josh1xs&show_icons=true&theme=dark&hide_border=false" alt="Josh1xs Stats" />
+  <!-- Tarjeta principal de estadísticas -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Josh1xs&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Josh1xs GitHub Stats" />
+  <br><br>
+  <!-- Lenguajes más usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh1xs&layout=compact&theme=dark&hide_border=false" alt="Josh1xs Most Used Languages" />
 </div>
