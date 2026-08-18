@@ -16,13 +16,6 @@
 
 <hr />
 
-## How to reach me
-
-* <b>Email:</b> <a href="mailto:m4valor@gmail.com">m4valor@gmail.com</a>
-* <b>Instagram:</b> <a href="https://www.instagram.com/josh103_/">@josh103_</a>
-
-<hr />
-
 ## Languages and Technologies
 
 <div align="center">
@@ -45,7 +38,7 @@
 
 <hr />
 
-## Stats
+## Stats & Ranking
 
 <div align="center">
   <a href="https://committers.top/el_salvador_private" target="_blank">
@@ -53,6 +46,13 @@
   </a>
   <br><br>
 
-  <!-- Lenguajes más usados de tus repositorios -->
+  <!-- Lenguajes más usados en repositorios -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Josh1xs&layout=compact&theme=dark&hide_border=false&langs_count=8" alt="Josh1xs Most Used Languages" />
 </div>
+
+<hr />
+
+## How to reach me
+
+* <b>Email:</b> <a href="mailto:m4valor@gmail.com">m4valor@gmail.com</a>
+* <b>Instagram:</b> <a href="https://www.instagram.com/josh103_/">@josh103_</a>
