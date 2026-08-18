@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Joshua Gonzalez </h1>
+<h1 align="center">Hi, I'm Joshua Gonzalez</h1>
 
 <p align="center">
   <b>Backend Developer & Technical Team Coordinator</b> <br>
@@ -7,23 +7,23 @@
 
 <hr />
 
-## 👨‍💻 About Me
+## About Me
 
-* I love designing and building robust **backend systems** and administrative platforms that solve real-world logistical and data management challenges.
-* My main focus is **Backend Web Development**, creating efficient workflows, reliable API architectures, and managing complex databases.
-* I also have solid foundations in frontend logic using **JavaScript**, and UI wireframing/design layout with **Figma**.
-* Always open to collaborating on **innovative projects** that require backend, data optimization, and collaborative teamwork.
-
-<hr />
-
-## 📬 How to reach me
-
-* ✉️ **Email:** [m4valor@gmail.com](mailto:m4valor@gmail.com)
-* 📸 **Instagram:** [@josh103_](https://www.instagram.com/josh103_/)
+* I love designing and building robust <b>backend systems</b> and administrative platforms that solve real-world logistical and data management challenges.
+* My main focus is <b>Backend Web Development</b>, creating efficient workflows, reliable API architectures, and managing complex databases.
+* I also have solid foundations in frontend logic using <b>JavaScript</b>, and UI wireframing/design layout with <b>Figma</b>.
+* Always open to collaborating on <b>innovative projects</b> that require backend, data optimization, and collaborative teamwork.
 
 <hr />
 
-## 🛠️ Languages and Technologies
+## How to reach me
+
+* <b>Email:</b> <a href="mailto:m4valor@gmail.com">m4valor@gmail.com</a>
+* <b>Instagram:</b> <a href="https://www.instagram.com/josh103_/">@josh103_</a>
+
+<hr />
+
+## Languages and Technologies
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
@@ -45,17 +45,17 @@
 
 <hr />
 
-## 📊 My Stats & Rankings
+## My Stats & Rankings
 
 <div align="center">
-  <h3>🇸🇻 El Salvador</h3>
+  <h3>El Salvador</h3>
   <a href="https://committers.top/el_salvador_private" target="_blank">
     <img src="https://img.shields.io/badge/Check%20my%20Ranking-El%20Salvador-blue?style=for-the-badge&logo=github" alt="GitHub Rank El Salvador">
   </a>
   <br><br>
-  <!-- Tarjeta principal de estadísticas -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Josh1xs&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Josh1xs GitHub Stats" />
+
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Josh1xs&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Josh1xs GitHub Stats" />
   <br><br>
-  <!-- Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh1xs&layout=compact&theme=dark&hide_border=false" alt="Josh1xs Most Used Languages" />
+
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Josh1xs&layout=compact&theme=dark&hide_border=false" alt="Josh1xs Most Used Languages" />
 </div>
