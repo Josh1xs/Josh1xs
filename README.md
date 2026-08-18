@@ -53,6 +53,6 @@
   </a>
   <br><br>
 
-  <!-- Tarjeta de WakaTime (Tiempo de código por lenguaje) -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=Josh1xs&theme=dark&hide_border=false" alt="Josh1xs WakaTime Stats" />
+  <!-- Lenguajes más usados de tus repositorios -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Josh1xs&layout=compact&theme=dark&hide_border=false&langs_count=8" alt="Josh1xs Most Used Languages" />
 </div>
