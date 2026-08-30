@@ -13,8 +13,8 @@
         "height": 82
       },
       "config": {
-        "animationType": "fade-in",
-        "animationPreviewKey": 1
+        "animationType": "typewriter",
+        "animationPreviewKey": 2
       },
       "locked": false,
       "visible": true,
@@ -26,7 +26,7 @@
       "name": "Languages Widget",
       "position": {
         "x": 32,
-        "y": 545
+        "y": 672
       },
       "size": {
         "width": 736,
@@ -46,8 +46,8 @@
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
       "position": {
-        "x": 38,
-        "y": 429
+        "x": 32,
+        "y": 568
       },
       "size": {
         "width": 736,
@@ -80,7 +80,7 @@
       "name": "Divider Widget",
       "position": {
         "x": 0,
-        "y": 396
+        "y": 546
       },
       "size": {
         "width": 800,
@@ -96,11 +96,11 @@
       "widgetId": "asciiprofile-heatmap",
       "name": "Asciiprofile-heatmap Widget",
       "position": {
-        "x": 26,
-        "y": 700
+        "x": 32,
+        "y": 886
       },
       "size": {
-        "width": 748,
+        "width": 736,
         "height": 232
       },
       "config": {
@@ -125,7 +125,7 @@
       "name": "Profile-trophy Widget",
       "position": {
         "x": 16,
-        "y": 956
+        "y": 1126
       },
       "size": {
         "width": 768,
@@ -145,11 +145,11 @@
       "name": "Divider Widget (Cópia)",
       "position": {
         "x": 0,
-        "y": 646
+        "y": 830
       },
       "size": {
         "width": 800,
-        "height": 30
+        "height": 40
       },
       "config": {},
       "locked": false,
@@ -161,12 +161,12 @@
       "widgetId": "premium-ascii-profile-card",
       "name": "Premium-ascii-profile-card Widget",
       "position": {
-        "x": 408,
-        "y": 53
+        "x": 288,
+        "y": 64
       },
       "size": {
-        "width": 376,
-        "height": 376
+        "width": 504,
+        "height": 504
       },
       "config": {
         "lockAspectRatio": true,
@@ -185,12 +185,12 @@
       "widgetId": "ascii-art",
       "name": "Ascii-art Widget",
       "position": {
-        "x": 48,
-        "y": 117
+        "x": 26,
+        "y": 132
       },
       "size": {
-        "width": 248,
-        "height": 248
+        "width": 254,
+        "height": 254
       },
       "config": {
         "lockAspectRatio": true,
