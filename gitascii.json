@@ -1,0 +1,193 @@
+{
+  "username": "Josh1xs",
+  "widgets": [
+    {
+      "widgetId": "header",
+      "name": "Header Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 82
+      },
+      "config": {
+        "animationType": "fade-in",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1788126710678_0"
+    },
+    {
+      "widgetId": "terminal-info",
+      "name": "Terminal-info Widget",
+      "position": {
+        "x": 16,
+        "y": 90
+      },
+      "size": {
+        "width": 504,
+        "height": 280
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 3,
+      "instanceId": "widget_1788126710678_2"
+    },
+    {
+      "widgetId": "languages",
+      "name": "Languages Widget",
+      "position": {
+        "x": 32,
+        "y": 521
+      },
+      "size": {
+        "width": 736,
+        "height": 160
+      },
+      "config": {
+        "animationType": "slide-up",
+        "animationPreviewKey": 2
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4,
+      "instanceId": "widget_1788126710678_3"
+    },
+    {
+      "instanceId": "widget_1788126783057",
+      "widgetId": "avatar",
+      "name": "Avatar Widget",
+      "position": {
+        "x": 544,
+        "y": 106
+      },
+      "size": {
+        "width": 240,
+        "height": 240
+      },
+      "config": {
+        "lockAspectRatio": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1788126862279",
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 32,
+        "y": 414
+      },
+      "size": {
+        "width": 736,
+        "height": 96
+      },
+      "config": {
+        "selectedTechs": [
+          "js",
+          "css",
+          "github",
+          "java",
+          "spring",
+          "mongodb",
+          "git",
+          "figma",
+          "vercel"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1788126950843",
+      "widgetId": "divider",
+      "name": "Divider Widget",
+      "position": {
+        "x": 0,
+        "y": 379
+      },
+      "size": {
+        "width": 800,
+        "height": 30
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1788126995741",
+      "widgetId": "asciiprofile-heatmap",
+      "name": "Asciiprofile-heatmap Widget",
+      "position": {
+        "x": 8,
+        "y": 692
+      },
+      "size": {
+        "width": 784,
+        "height": 232
+      },
+      "config": {
+        "accentColor": "#ffa657"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1788127105045",
+      "widgetId": "profile-trophy",
+      "name": "Profile-trophy Widget",
+      "position": {
+        "x": 0,
+        "y": 940
+      },
+      "size": {
+        "width": 800,
+        "height": 200
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1788127213594_0",
+      "widgetId": "divider",
+      "name": "Divider Widget (Cópia)",
+      "position": {
+        "x": 0,
+        "y": 646
+      },
+      "size": {
+        "width": 800,
+        "height": 30
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 9
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "native"
+  },
+  "templateId": "cyberpunk",
+  "profileSlug": "default"
+}
