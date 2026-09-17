@@ -40,11 +40,6 @@
 
 ## Stats & Ranking
 
-<div align="center">
-  <a href="https://committers.top/el_salvador_private" target="_blank">
-    <img src="https://img.shields.io/badge/Check%20my%20Ranking-El%20Salvador-blue?style=for-the-badge&logo=github" alt="GitHub Rank El Salvador">
-  </a>
-  <br><br>
 
   <!-- Lenguajes más usados en repositorios -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Josh1xs&layout=compact&theme=dark&hide_border=false&langs_count=8" alt="Josh1xs Most Used Languages" />
